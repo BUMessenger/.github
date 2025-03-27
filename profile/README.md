@@ -6,7 +6,7 @@
 <div align="center">  
   
 [![Download Latest](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge&logo=github)](https://github.com/bumessenger/release/)  
-[![Documentation](https://img.shields.io/badge/Docs-API%20Reference-black?style=for-the-badge)](https://github.com/bumessenger/docs)  
+[![Documentation](https://img.shields.io/badge/Docs-API%20Reference-black?style=for-the-badge)](https://github.com/bumessenger/docs/wiki)  
 </div>  
 
 ---  
@@ -62,7 +62,7 @@ docker-compose up --build -d
 
 [![Frontend](https://img.shields.io/badge/Frontend-black?style=flat-square&)](https://github.com/bumessenger/frontend)  
 [![Backend](https://img.shields.io/badge/Backend-red?style=flat-square)](https://github.com/bumessenger/backend)  
-[![Documentation](https://img.shields.io/badge/Docs%20GitHub-black?style=flat-square&logo=github)](https://github.com/bumessenger/docs)  
+[![Documentation](https://img.shields.io/badge/Docs%20GitHub-black?style=flat-square&logo=github)](https://github.com/bumessenger/docs/wiki)  
 [![Releases](https://img.shields.io/badge/Downloads%20Latest%20Build-red?style=flat-square&logo=docker)](https://github.com/bumessenger/release)  
 
 </div>  
