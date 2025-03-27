@@ -1,4 +1,4 @@
-# <img src="logo.svg" width="40" alt=""> **BUMessenger**  
+# <img src="https://github.com/BUMessenger/.github/blob/main/images/logored.jpg" width="40" alt=""> **BUMessenger**  
 #### *Мессенджер для разработчиков от разработчиков*  
 
 ---
@@ -25,11 +25,9 @@
 
 <div align="center">  
   
-| | |
-|-|-|
-| **Регистрация** | **Чаты** |
-| ![Чат](chat-dark.png) | ![Треды](threads-dark.png) |  
-
+  ![Чат](https://github.com/BUMessenger/.github/blob/main/images/reg.jpg)  
+  ![Треды](https://github.com/BUMessenger/.github/blob/main/images/chat.jpg)  
+  
 </div>  
 
 ---  
