@@ -42,18 +42,6 @@ cd release
 docker-compose up --build -d
 ```
 
-### Из исходников:  
-
-```bash
-git clone https://github.com/bumessenger/frontend.git
-cd frontend
-docker-compose up --build -d
-cd ..
-git clone https://github.com/bumessenger/backend.git
-cd backend
-docker-compose up --build -d
-```
-
 ---  
 
 ## 🔗 **Ресурсы**  
